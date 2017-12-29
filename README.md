@@ -11,7 +11,7 @@ Extract optical flow，RGB，warped optical flow from video dataset
 	
 * $ unzip video-dataset-to-optical-flow-master.zip
 
-* 下载数据集 [UCF-101][ucf101]，[HMDB51][hmdb51]
+* 下载数据集 [UCF-101][ucf101]，[HMDB51][hmdb51] 等
 
 ### 2.编译环境 Build
 	
