@@ -17,7 +17,7 @@ Extract optical flow，RGB，warped optical flow from video dataset
 
 		$ bash build_all.sh
 		
-	终端输出 ```All tools built. Happy experimenting!``` 表示build成功
+	终端输出``` All tools built. Happy experimenting! ```表示build成功
 	
 ### 3.提取光流
 
