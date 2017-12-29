@@ -42,7 +42,6 @@ parser.add_argument("--flow_type", type=str, default='warped_tvl1', choices=['tv
 
 * $ bash scripts/extract_optical_flow.sh DATASET_PATH OUT_PATH NUMBER_OF_WORKER
 
-### 5.制作标签 Label
 
 
 [ucf101]:http://crcv.ucf.edu/data/UCF101.php
