@@ -11,6 +11,8 @@ Extract optical flow，RGB，warped optical flow from video dataset
 	
 * $ unzip video-dataset-to-optical-flow-master.zip
 
+* 下载数据集 [UCF-101][ucf101]，[HMDB51][hmdb51]
+
 ### 2.编译环境 Build
 	
 	build opencv 2.4.13 和 dense_flow 环境
@@ -39,6 +41,13 @@ parser.add_argument("--flow_type", type=str, default='warped_tvl1', choices=['tv
 ```
 
 * $ bash scripts/extract_optical_flow.sh DATASET_PATH OUT_PATH NUMBER_OF_WORKER
+
+### 5.制作标签 Label
+
+
+[ucf101]:http://crcv.ucf.edu/data/UCF101.php
+[hmdb51]:http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
+
 
 	
 	
