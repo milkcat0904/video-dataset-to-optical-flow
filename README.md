@@ -7,6 +7,6 @@ Extract optical flow，RGB，warped optical flow from video dataset
 
 * 直接下载或者使用指令下载：
 		
-	$ git clone --recursive https://github.com/milkcat0904/video-dataset-to-optical-flow.git
+		$ git clone --recursive https://github.com/milkcat0904/video-dataset-to-optical-flow.git
 	
 * $ unzip video-dataset-to-optical-flow-master.zip
